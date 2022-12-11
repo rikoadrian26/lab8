@@ -7,7 +7,8 @@ A. berikut adalah program sederhana input nilai mahasiswa menggunakan oop di pyt
 * ![l8(72)](https://user-images.githubusercontent.com/115749975/206889874-5917df7c-547c-49fe-ac4d-206d4a8e5d9c.png)
 
 - output
-* ![l8(72)](https://user-images.githubusercontent.com/115749975/206889874-5917df7c-547c-49fe-ac4d-206d4a8e5d9c.png)
+* ![l8 (68)](https://user-images.githubusercontent.com/115749975/206902510-1fac284e-3938-405d-aabe-e23d510c249c.png)
+
 
 B. dan berikut adalah diagram class dari program data mahasiswa.
 
